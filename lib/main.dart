@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'bantwara_screen.dart';
 
@@ -21,3 +20,4 @@ class DraftSevaApp extends StatelessWidget {
       home: const BantwaraScreen(),
     );
   }
+}
